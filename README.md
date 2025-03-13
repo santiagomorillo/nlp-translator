@@ -36,10 +36,10 @@ Before running the application, ensure you have Docker installed on your machine
 To run the application, use the following command:
 
 ```
-docker run -p 5000:5000 flask-translation-app
+docker run -p 80:80 flask-translation-app
 ```
 
-You can then access the application by navigating to `http://localhost:5000` in your web browser.
+You can then access the application by navigating to `http://localhost:80` in your web browser.
 
 ## Usage
 
